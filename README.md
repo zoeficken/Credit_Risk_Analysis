@@ -50,9 +50,9 @@ Easy Ensemble
 
 <img width="681" alt="Screen Shot 2021-12-12 at 5 48 57 PM" src="https://user-images.githubusercontent.com/88108455/145732685-3080a8b6-7812-4588-a029-641a7b911e0c.png">
 
-Balanced Accuracy Score: 0.9229904850855175
-Precision Score: The precision is low for High-risk loans and is high for Low-risk loans.
-Recall Score: 0.67 High Risk/ 0.91 Low Risk
+- Balanced Accuracy Score: 0.9229904850855175
+- Precision Score: The precision is low for High-risk loans and is high for Low-risk loans.
+- Recall Score: 0.67 High Risk/ 0.91 Low Risk
 
 ## Summary
 
